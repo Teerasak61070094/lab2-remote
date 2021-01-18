@@ -5,8 +5,8 @@
 **StudentID** : 61070094
 **Name** : Teerasak Wongpoo
 
-> king mongkut's institute of technology ladkrabang
+>[King mongkut's institute of technology ladkrabang](https://www.kmitl.ac.th)
 
 ```
-print(hello World)
+print("Hello Ladkrabang")
 ```
